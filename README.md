@@ -1,5 +1,8 @@
 # 🧾 arabic-pdf-invoice-builder
 
+> **Topics:** `zatca` `e-invoicing` `arabic-pdf` `fatoora` `tlv-qr` `rtl` `python` `invoice-generator`
+
+
 [![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/MobileConduit/arabic-pdf-invoice-builder/releases/tag/v1.0.0)
 [![CI](https://github.com/MobileConduit/arabic-pdf-invoice-builder/actions/workflows/ci.yml/badge.svg)](https://github.com/MobileConduit/arabic-pdf-invoice-builder/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)

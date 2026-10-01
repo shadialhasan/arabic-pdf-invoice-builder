@@ -1,0 +1,13 @@
+{
+  "description": "Arabic RTL PDF invoice generator with ZATCA Phase 2 Base64 TLV electronic QR code",
+  "topics": [
+    "zatca",
+    "e-invoicing",
+    "arabic-pdf",
+    "fatoora",
+    "tlv-qr",
+    "rtl",
+    "python",
+    "invoice-generator"
+  ]
+}
