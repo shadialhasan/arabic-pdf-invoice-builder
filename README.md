@@ -1,5 +1,6 @@
 # 🧾 arabic-pdf-invoice-builder
 
+[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/MobileConduit/arabic-pdf-invoice-builder/releases/tag/v1.0.0)
 [![CI](https://github.com/MobileConduit/arabic-pdf-invoice-builder/actions/workflows/ci.yml/badge.svg)](https://github.com/MobileConduit/arabic-pdf-invoice-builder/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Standard: ZATCA Phase 2](https://img.shields.io/badge/Compliance-ZATCA%20Phase%202%20TLV-brightgreen.svg)](https://zatca.gov.sa)
@@ -34,6 +35,16 @@ flowchart TD
 - **Zero External Dependencies**: Pure Python standard library implementation with zero external package bloat.
 
 ---
+
+---
+
+## ⚙️ Installation & Setup
+
+```bash
+git clone https://github.com/MobileConduit/arabic-pdf-invoice-builder.git
+cd arabic-pdf-invoice-builder
+pip install -r requirements.txt
+```
 
 ## 🚀 Quick Start & CLI Usage
 
